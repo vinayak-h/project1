@@ -1,4 +1,4 @@
-# project1
+# Algorithm
 test
 ok tested..
 
